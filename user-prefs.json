@@ -1,0 +1,2795 @@
+{
+  "install": {
+    "skipInstallProjectPrerequisite": true
+  },
+  "export": {
+    "filesSelection": [
+      {
+        "path": "defaultconfigs",
+        "isSelected": false
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods/chunksending-1.20.1-2.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/gpumemleakfix-1.20.1-1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/waveycapes-forge-1.6.2-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/AsyncParticles-2.3.6+1.20.1.jar.disabled",
+        "isSelected": true
+      },
+      {
+        "path": "mods/sophisticatedstorage-1.20.1-1.4.2.1271.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/voicechat-forge-1.20.1-2.5.35.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/entity_model_features_1.20.1-forge-3.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/ExtraSoundsNext-forge-1.20.1-1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Kobolds-2.12.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/spark-1.10.53-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/immersivearmorhud-forge-1.0.1-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/connectivity-1.20.1-7.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/nether-s-exoticism-1.20.1-1.2.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/trimeffects-forge-mc1.20-2.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/particular-1.20.1-Forge-1.2.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/amendments-1.20-2.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/clickadv-1.20.1-3.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/visuality-forge-2.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/nyfsspiders-forge-1.20.1-2.1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/nethersdelight-1.20.1-4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/snuffles-1.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/citadel-2.6.2-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/skinlayers3d-forge-1.9.0-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/cupboard-1.20.1-2.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Pretty Rain-1.20.1-Forge-1.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/architectury-9.2.14-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/sophisticatedbackpacks-1.20.1-3.24.2.1339.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/spawnanimations-v1.11-mc1.17-1.21.8-mod.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/recipeessentials-1.20.1-4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/sophisticatedcore-1.20.1-1.2.86.1132.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/flowerymooblooms-forge-mc1.20.1-2.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Blood N' Particles v1.4.0 - Forge 1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/blueprint-1.20.1-7.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/tf_dnv-1.2.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/smoothchunk-1.20.1-4.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/dtnatures_spirit-1.20.1-forge-1.3-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/collective-1.20.1-8.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/corpse-forge-1.20.1-1.0.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DarkPaintings-Forge-1.20.1-17.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/alexsmobs-1.22.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/dynview-1.20.1-4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/libjf-3.12.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/holdmyitems-1.20.1v2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/polytone-1.20-3.5.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/nethervillagertrader-1.2.0-forge-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/netherportalfix-forge-1.20-13.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/ImmediatelyFast-Forge-1.5.1+1.20.4.jar.disabled",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DynamicTreesJadens-1.20.1-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/moonlight-1.20-2.16.8-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/fastasyncworldsave-1.20.1-2.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/StylishEffects-v8.0.2-1.20.1-Forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/gml-4.0.11-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Luminous Monsters V1.2.7- Forge 1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/entity_texture_features_1.20.1-forge-7.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Jadens-Nether-Expansion-2.3.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/twilightdelight-2.0.17.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/guardvillagers-1.20.1-1.6.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/diversity-forge-1.20.1-2.5.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/guild_mod-2.5.3-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/lithostitched-forge-1.20.1-1.4.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/MyNethersDelight-1.20.1-0.1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/kotlinforforge-4.11.0-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/smoothskies-2.10.4+1.20.4-fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/EquipmentCompare-1.20.1-forge-1.3.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/particle_core-0.2.6+1.20.1+forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DynamicTreesAlexsMobs-1.20.1-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Perception-FORGE-0.1.4+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/natures_spirit-2.2.5-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/wetland_whimsy-1.3.1-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/eatinganimation-1.20.1-5.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/aether-1.20.1-1.5.2-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DoubleSlabs-forge-1.20.1-1.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/jadensnetherexpansiondelight-1.20.1-1.0.4-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/oceansdelight-1.0.2-1.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/beekeeperhut-forge-mc1.20.1-2.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Waves-1.20.1-1.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Stellar View-1.20.1-0.4.6-Forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Highlighter-1.20.1-forge-1.1.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/modelfix-1.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/piglinproliferation-1.20.1-1.2.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/waystones-forge-1.20.1-14.1.17.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DynamicTreesAether-1.20.1-1.3.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/betterchunkloading-1.20.1-5.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/nyliumnasturtium-1.20.1-2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Amplified_Nether_1.21.x_v1.2.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/citadel_fix-1.2.jar.disabled",
+        "isSelected": true
+      },
+      {
+        "path": "mods/ElysiumAPI-1.20.1-1.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/fence_on_slab-forge-1.20.1-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/fastboot-1.20.x-1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/birdsboids-1.3.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/phantasm-1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DynamicTreesPlus-1.20.1-1.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/chloride-FORGE-mc1.20.1-v1.7.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DynamicTreesTheTwilightForest-1.20.1-2.2.0-BETA2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/memorysettings-1.20.1-5.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Platform-forge-1.20.1-1.2.10.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/netherdepthsupgrade-3.1.5-1.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Raided-1.20.1-0.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/fzzy_config-0.7.2+1.20.1+forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/simpleclouds-0.7.3+1.20.1-forge-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/bloodbits-1.10-forge-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/illagersweararmor-1.20.1-1.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/alexsdelight-1.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/YungsBetterCaves-1.20.1-Forge-2.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Chunky-1.3.146.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/separatedleaves-2.6.0-forge-1.20.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/SubtleEffects-forge-1.20.1-1.12.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/dynamiclights-v1.8.9-mc1.17-1.21.8-mod.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/smarterfarmers-1.20-2.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/cloth-config-11.1.136-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Explorify v1.6.2 f10-48.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/modernfix-forge-5.24.4+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DynamicTrees-1.20.1-1.4.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/mowziesmobs-1.7.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Boids-2.0.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/twilightforest-1.20.1-4.3.2508-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/geckolib-forge-1.20.1-4.7.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/3d-armor-0.9.1.1-mod.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/ferritecore-6.0.1-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/chat_heads-0.13.18-forge-1.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/watut-forge-1.20.1-1.2.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/realisticbees-1.20.1-4.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/[forge]ctov-3.4.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/txnilib-forge-1.0.24-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/countereds_terrain_slabs-2.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/redirected-forge-1.0.0-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/starlight-1.1.2+forge.1cda73c.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Structory_Towers_1.20.x_v1.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/spidersproducewebs-1.20.1-3.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/chefs-delight-1.0.3-forge-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/framework-forge-1.20.1-0.7.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/supplementaries-1.20-3.1.37.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/goblintraders-forge-1.20.1-1.11.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/firstperson-forge-2.5.0-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/burnt-1.9.0.4-forge-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/faewulf_lib-forge-1.20.1-1.3.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/structureessentials-1.20.1-4.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/balm-forge-1.20.1-7.3.34-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/endersdelight-forge-1.20.1-1.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/rottencreatures-forge-1.20.1-1.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/BadOptimizations-2.3.0-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/respackopts-4.6.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs/telemetry",
+        "isSelected": false
+      },
+      {
+        "path": "logs/telemetry/20250903-2.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/telemetry/20250903-3.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/telemetry/20250906-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/telemetry/20250903-4.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/telemetry/20250903-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-07-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-03-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-14-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-11-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-11-7.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-06-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-11-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-12-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-14-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-18-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-07-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-12-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-06-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-11-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-14-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-07-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-02-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-16-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-06-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-12-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-16-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-10-7.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-03-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-13-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-12-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-04-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-03-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-10-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-03-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-10-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-14-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-10-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-07-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-16-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-07-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-18-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-07-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-03-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/latest.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-09-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-06-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-10-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-02-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-05-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-11-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-06-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-11-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-09-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-09-03-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-11-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-10-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-10-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs/2025-07-14-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "data",
+        "isSelected": false
+      },
+      {
+        "path": "data/fabricDefaultResourcePacks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_13.07.50-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_02.14.29-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_15.13.23-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_02.08.33-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-11_01.15.05-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_01.13.07-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_02.17.03-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-06_19.44.09-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.26.18-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-06_19.42.24-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.28.29-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-09_23.55.42-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_17.39.54-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_16.52.29-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-09_23.58.56-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_13.20.07-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.38.43-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.27.01-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.41.21-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_16.55.28-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_01.13.02-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.23.59-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_23.02.47-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-06_19.44.40-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.06.38-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_02.10.32-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_23.01.59-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.39.21-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.19.47-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_13.31.43-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_00.17.08-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_13.07.53-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_17.42.12-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-07-10_23.06.48-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports/crash-2025-09-03_02.19.45-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/cqas5s3mk60fs@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/cqas5s3mk60fs@minecraft@@overworld/DistantHorizons.sqlite-shm",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/cqas5s3mk60fs@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/cqas5s3mk60fs@minecraft@@overworld/DistantHorizons.sqlite-wal",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/3fvch12ridoqm@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/3fvch12ridoqm@minecraft@@overworld/DistantHorizons.sqlite-shm",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/3fvch12ridoqm@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/Minecraft+Server/3fvch12ridoqm@minecraft@@overworld/DistantHorizons.sqlite-wal",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@aether@@the_aether",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@aether@@the_aether/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/1l12m5ac6nevu@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/1l12m5ac6nevu@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/2sukfcri8veha@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/2sukfcri8veha@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/khjj263nhamc6@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/khjj263nhamc6@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/cqas5s3mk60fs@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/cqas5s3mk60fs@minecraft@@overworld/DistantHorizons.sqlite-shm",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/cqas5s3mk60fs@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/cqas5s3mk60fs@minecraft@@overworld/DistantHorizons.sqlite-wal",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/1l12m5ac6nevu@minecraft@@the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/1l12m5ac6nevu@minecraft@@the_nether/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/83qt50psa1c1i@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/83qt50psa1c1i@minecraft@@overworld/DistantHorizons.sqlite-shm",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/83qt50psa1c1i@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/83qt50psa1c1i@minecraft@@overworld/DistantHorizons.sqlite-wal",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/rprsprc6k8kfu@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/rprsprc6k8kfu@minecraft@@overworld/DistantHorizons.sqlite-shm",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/rprsprc6k8kfu@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/rprsprc6k8kfu@minecraft@@overworld/DistantHorizons.sqlite-wal",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@twilightforest@@twilight_forest",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@twilightforest@@twilight_forest/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@minecraft@@the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@minecraft@@the_nether/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@minecraft@@the_end",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@minecraft@@the_end/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/83qt50psa1c1i@minecraft@@the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/83qt50psa1c1i@minecraft@@the_nether/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/7s6k0p6s8vdd8@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/7s6k0p6s8vdd8@minecraft@@overworld/DistantHorizons.sqlite-shm",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/7s6k0p6s8vdd8@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/7s6k0p6s8vdd8@minecraft@@overworld/DistantHorizons.sqlite-wal",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/m8966ciq8l9u0@minecraft@@overworld/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/2sukfcri8veha@minecraft@@the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/2sukfcri8veha@minecraft@@the_nether/DistantHorizons.sqlite-shm",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/2sukfcri8veha@minecraft@@the_nether/DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data/mc%2Edes%2Evu/2sukfcri8veha@minecraft@@the_nether/DistantHorizons.sqlite-wal",
+        "isSelected": false
+      },
+      {
+        "path": "trees",
+        "isSelected": false
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots/2025-07-14_00.56.29.png",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots/2025-09-07_02.41.50.png",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots/2025-09-07_02.41.40.png",
+        "isSelected": false
+      },
+      {
+        "path": "datapacks",
+        "isSelected": true
+      },
+      {
+        "path": "mod_data",
+        "isSelected": false
+      },
+      {
+        "path": "mod_data/gml",
+        "isSelected": false
+      },
+      {
+        "path": "mod_data/gml/1.20.1",
+        "isSelected": false
+      },
+      {
+        "path": "mod_data/gml/1.20.1/srg.zip",
+        "isSelected": false
+      },
+      {
+        "path": "mod_data/gml/1.20.1/official.txt",
+        "isSelected": false
+      },
+      {
+        "path": "mod_data/gml/1.20.1/README",
+        "isSelected": false
+      },
+      {
+        "path": "mod_data/gml/1.20.1/version.json",
+        "isSelected": false
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Fresh Friends v2.1.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/fresh particles.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Visual Effects+.zip.rpo",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Freshly Modded 2.0.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/BiomesWanderingTrader_FA.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Assorted Allays x FA - V.10.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/ImmersiveFoliage.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/§1Drodi's Illagers FA [V5] pre 1.21.5.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/EnderEyes_1.21.8_v3.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/CraftableHorseArmor.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Eat Animations Aether Compat.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Armor Trims Compat 1.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/AL's Spiders Revamped+FA 1.2.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/FreshlyTwilighted_v1.0.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/AL's Golems Revamped+FA 1.2.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/FreshAnimations_v1.10.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/AL's Boss Rush 1.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/FreshCompats_v1.6.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Fresh Flowers and Plants 3D UI.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Lower Shield.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/§8§lDarkmode §f§lColourful Containers§8.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/AL's Enderman Revamped 1.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Fresh HUD.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/§eExtended_Illumina_1.20x.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/enchant icons 1.20 v1.3.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/CraftableNameTag.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Eating Animations More Compat.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Visual Effects+.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/[Compressed] Alternative Rain Sounds 1.20-1.20.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/MushroomsPlus_1.20.1_v1.2.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Fresh Food.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Fresh Aether 1.2.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Fresh Buckets 3D UI.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Twilight JAPPA Pack 1.0.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/LowOnFire_1.20.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/FreshlyTwilighted_v1.0.0.zip.disabled",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/AL's Skeletons Revamped 1.6.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/FA+Objects-v1.1.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Alittle_Axolotl_[6.1].zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Beautiful Enchanted Books - MC 1.20.X - 7.0.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/FreshTurtleVariants1.18.2-1.20.1V1.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/waystones_1_20_1_update_3.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/Prime's HD Textures (Free).zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks/AL's Creepers Revamped 1.3.zip",
+        "isSelected": true
+      },
+      {
+        "path": "config",
+        "isSelected": true
+      },
+      {
+        "path": "config/voicechat",
+        "isSelected": true
+      },
+      {
+        "path": "config/voicechat/voicechat-client.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/voicechat/username-cache.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/voicechat/voicechat-server.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/voicechat/translations.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/voicechat/voicechat-volumes.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/l2_configs",
+        "isSelected": true
+      },
+      {
+        "path": "config/l2_configs/l2library-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/l2_configs/l2library-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds/forge-1_20",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds/forge-1_20/rareblocks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds/forge-1_20/README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds/forge-1_20/armorstands.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds/forge-1_20/ores.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds/forge-1_20/itemframes.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds/README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config/fabric",
+        "isSelected": true
+      },
+      {
+        "path": "config/fabric/indigo-renderer.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/respackopts",
+        "isSelected": true
+      },
+      {
+        "path": "config/respackopts/_respackopts.conf",
+        "isSelected": true
+      },
+      {
+        "path": "config/asyncparticles",
+        "isSelected": true
+      },
+      {
+        "path": "config/asyncparticles/asyncparticles-mixin.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/asyncparticles/asyncparticles.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/waves",
+        "isSelected": true
+      },
+      {
+        "path": "config/waves/waves.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/bettercaves",
+        "isSelected": true
+      },
+      {
+        "path": "config/bettercaves/forge-1_20_1",
+        "isSelected": true
+      },
+      {
+        "path": "config/bettercaves/forge-1_20_1/liquidregions.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/bettercaves/forge-1_20_1/README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config/bettercaves/README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config/CoroUtil",
+        "isSelected": true
+      },
+      {
+        "path": "config/CoroUtil/General.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/fzzy_config",
+        "isSelected": true
+      },
+      {
+        "path": "config/fzzy_config/search.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/fzzy_config/keybinds.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/visuality",
+        "isSelected": true
+      },
+      {
+        "path": "config/visuality/particle_emitters",
+        "isSelected": true
+      },
+      {
+        "path": "config/visuality/particle_emitters/block_ambient.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/visuality/particle_emitters/entity_hit.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/visuality/particle_emitters/entity_armor.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/visuality/particle_emitters/block_step.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/visuality/config.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/spark",
+        "isSelected": true
+      },
+      {
+        "path": "config/spark/tmp",
+        "isSelected": true
+      },
+      {
+        "path": "config/spark/tmp/about.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config/spark/tmp/spark-123a84d57dda-libasyncProfiler.so.tmp",
+        "isSelected": true
+      },
+      {
+        "path": "config/spark/config.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/spark/activity.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/subtle_effects",
+        "isSelected": true
+      },
+      {
+        "path": "config/subtle_effects/blocks.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/subtle_effects/items.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/subtle_effects/entities.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/subtle_effects/environment.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/subtle_effects/general.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/aether",
+        "isSelected": true
+      },
+      {
+        "path": "config/aether/aether_customizations.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config/aether/sun_altar_whitelist.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/chunky",
+        "isSelected": true
+      },
+      {
+        "path": "config/chunky/tasks",
+        "isSelected": true
+      },
+      {
+        "path": "config/chunky/tasks/minecraft",
+        "isSelected": true
+      },
+      {
+        "path": "config/chunky/tasks/minecraft/overworld.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/chunky/config.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/gelada_monkey_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/mudskipper_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/capuchin_monkey_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/skelewag_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/komodo_dragon_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/tiger_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/grizzly_bear_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/bunfungus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/tarantula_hawk_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/rattlesnake_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/seagull_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/anaconda_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/spectre_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/kangaroo_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/sunbird_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/comb_jelly_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/flying_fish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/hummingbird_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/shoebill_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/cachalot_whale_beached_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/rain_frog_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/catfish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/roadrunner_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/cachalot_whale_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/skreecher.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/void_worm_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/crimson_mosquito_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/cockroach_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/seal_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/flutter_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/stradpole_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/laviathan_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/caiman_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/mimicube_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/skunk_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/anteater_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/jerboa_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/leafcutter_anthill_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/tasmanian_devil_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/devils_hole_pupfish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/giant_squid_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/gorilla_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/hammerhead_shark_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/bone_serpent_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/emu_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/straddler_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/mungus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/crow_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/cave_centipede_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/lobster_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/enderiophage_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/raccoon_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/elephant_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/cosmic_cod_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/mantis_shrimp_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/dropbear_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/frilled_shark_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/rhinoceros_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/triops_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/banana_slug_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/fly_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/bald_eagle_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/potoo_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/farseer.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/platypus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/mimic_octopus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/bison_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/sugar_glider_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/crocodile_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/rocky_roller_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/endergrade_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/warped_mosco_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/orca_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/snow_leopard_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/soul_vulture_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/toucan_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/gazelle_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/moose_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/blobfish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/cosmaw_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/terrapin_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/warped_toad_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/blue_jay_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/underminer.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/maned_wolf_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/guster_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/murmur.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/tusklin_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs/froststalker_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/NoChatReports",
+        "isSelected": true
+      },
+      {
+        "path": "config/NoChatReports/NCR-Encryption.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/NoChatReports/NCR-Common.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/NoChatReports/README.md",
+        "isSelected": true
+      },
+      {
+        "path": "config/NoChatReports/NCR-Client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/NoChatReports/NCR-ServerPreferences.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/sophisticatedstorage-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/embeddium-options.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/skinlayers.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/holdmyitems-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/waveycapes.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/burnt_1_9_0_4_config.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/particular-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/watut-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/recipeessentials.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/guild_mod-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/sophisticatedcore-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/netherdepthsupgrade-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/chat_heads.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/guardvillagers-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/realisticbees.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/entity_model_features.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/spidersproducewebs.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/equipmentcompare-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/fml.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/embeddium-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/Blood Bits.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/clickadv.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/terrainslabs.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/mowziesmobs-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/crackerslib-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/balm-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/bettermineshafts-forge-1_20.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/curios-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/libjf-config-core-v1.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/simpleclouds-client-2.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/chloride-client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/waystones-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/Luminous Monsters Configuration.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/balm-client-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/sophisticatedbackpacks-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/voicechat-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/immediatelyfast.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/badoptimizations.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config/sophisticatedstorage-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/wetland_whimsy.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/supplementaries-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/trimseffects-config2.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/watut-item-arm-adjustments.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/midnightlib.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/explosiveenhancement.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/friendsandfoes.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/guardvillagers-common-4.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/raided-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/twilightdelight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/ferritecore-mixin.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/notenoughanimations.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterstrongholds-forge-1_20.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/dynamicview.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/piglinproliferation-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/simpleclouds-client-3.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/guardvillagers-common-2.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/libjf-translate-v1.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/phantasm.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/entity_texture_features.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/prettyrain.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/lithostitched.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/spawnanimations.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/aether-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/moonlight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/natures_spirit-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/simpleclouds-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/zillagersweararmor-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/zillagersweararmor-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/aether-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/highlighter-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/cumulus_menus-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/immersivearmorhud-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/sodiumdynamiclights-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/guardvillagers-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/mowziesmobs-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/DistantHorizons.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/blueprint-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/blueprint-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/rottencreatures-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/chefsdelight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/overflowingbars-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/citadel-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/alexsmobs.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/stylisheffects-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/cupboard.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/boids.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/guardvillagers-common-3.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/farmersdelight-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/smoothskies.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/piglinproliferation-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/connector.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/particle_core_disabled_optimizations.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/terrablender.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/twilightforest-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/yacl.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/forge-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/stellarview-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/structureessentials.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/libjf-web-v0.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/nyliumnasturtium-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/dynamiclights.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/simpleclouds-client-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterchunkloading.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/legendarytooltips-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/modernfix-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config/goblintraders-entities.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/supplementaries-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/simpleclouds-client-4.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/diversity.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/gml-script-mods.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/firstperson.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/guardvillagers-common-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/embeddium-fingerprint.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/perception.yaml",
+        "isSelected": true
+      },
+      {
+        "path": "config/twilightdelight-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/etf_warnings.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/waves-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/nyfsspiders.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/smoothchunk.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/smarterfarmers-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/farmersdelight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/simpleclouds-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/watut-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/particle_core_config.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/betteroceanmonuments-forge-1_20.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/sophisticatedcore-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/twilightforest-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/burnt_1_9_0_3_config.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/netherexp-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/balm-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/memorysettings.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/modelfix-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/modernfix-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/moonlight-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/amendments-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/collective.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config/simpleclouds-client-5.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/amendments-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/connectivity.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/watut-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/chunksending.json",
+        "isSelected": true
+      },
+      {
+        "path": "config/guardvillagers-common-5.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config/dynamictrees-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config/betterdungeons-forge-1_20.toml",
+        "isSelected": true
+      },
+      {
+        "path": "usercache.json",
+        "isSelected": false
+      },
+      {
+        "path": "user-prefs.json",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "options.txt",
+        "isSelected": false
+      },
+      {
+        "path": "fabricloader.log",
+        "isSelected": false
+      },
+      {
+        "path": "servers.dat",
+        "isSelected": false
+      },
+      {
+        "path": "usernamecache.json",
+        "isSelected": false
+      },
+      {
+        "path": "servers.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      }
+    ],
+    "recommendedRam": 12160,
+    "enableRecommendedRam": true
+  }
+}

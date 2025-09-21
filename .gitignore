@@ -1,0 +1,17 @@
+saves/
+backups/
+crash-reports/
+logs/
+downloads/
+screenshots/
+Distant_Horizons_server_data/
+
+**/*.disabled
+/*.dat
+/*.dat_old
+/*.nbt
+/usercache.json
+/usernamecache.json
+/fabricloader.log
+/*.log
+hs_err_pid*.log

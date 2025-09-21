@@ -163,21 +163,21 @@ _version = 3
 				#
 				# Should Minecraft's fog render? 
 				# Note: Other mods may conflict with this setting.
-				enableVanillaFog = false
+				enableVanillaFog = true
 				#
 				# At what distance should the far fog start? 
 				# 
 				# 0.0: Fog starts at the player's position. 
 				# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 				# 1.414: Fog starts at the corner of the vanilla render distance.
-				farFogStart = "0.4"
+				farFogStart = "0.0"
 				#
 				# Where should the far fog end? 
 				# 
 				# 0.0: Fog ends at player's position.
 				# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 				# 1.414: Fog ends at the corner of the vanilla render distance.
-				farFogEnd = "1.0"
+				farFogEnd = "0.15"
 				#
 				# What is the minimum fog thickness? 
 				# 
@@ -242,7 +242,7 @@ _version = 3
 					# 
 					# 0.0: Fog end with no offset.
 					# 1.0: Fog end with offset of the entire world's height. (Include depth)
-					heightFogEnd = "0.6"
+					heightFogEnd = "0.8"
 					#
 					# What is the minimum fog thickness? 
 					# 
