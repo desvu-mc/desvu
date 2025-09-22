@@ -5,8 +5,9 @@ logs/
 downloads/
 screenshots/
 Distant_Horizons_server_data/
+mod_data/
 
-**/*.disabled
+**/*.
 /*.dat
 /*.dat_old
 /*.nbt
