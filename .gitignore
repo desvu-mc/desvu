@@ -6,6 +6,8 @@ downloads/
 screenshots/
 Distant_Horizons_server_data/
 mod_data/
+modernfix/
+
 
 **/*.
 /*.dat
@@ -14,5 +16,8 @@ mod_data/
 /usercache.json
 /usernamecache.json
 /fabricloader.log
+/.qmenu_opened.marker
+/.curseclient
+/.libEffekseerNativeForJava.so
 /*.log
 hs_err_pid*.log
