@@ -18,6 +18,5 @@ modernfix/
 /fabricloader.log
 /.qmenu_opened.marker
 /.curseclient
-/.libEffekseerNativeForJava.so
 /*.log
 hs_err_pid*.log

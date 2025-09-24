@@ -1,3 +1,5 @@
 {
-  "signingModes": {}
+  "signingModes": {
+    "mc.des.vu:25565": "PROMPT"
+  }
 }
