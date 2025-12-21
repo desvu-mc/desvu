@@ -1,9 +1,9 @@
 {
   "configVersion": 2,
   "enabledByDefault": true,
-  "xOffset": 22,
-  "sneakXOffset": 24,
-  "sitXOffset": 22,
+  "xOffset": 25,
+  "sneakXOffset": 25,
+  "sitXOffset": 24,
   "renderStuckFeatures": false,
   "vanillaHandsMode": "ALL",
   "dynamicMode": false,
@@ -21,5 +21,8 @@
   "autoToggleModItems": [
     "exposure:camera"
   ],
-  "hiddenLayers": []
+  "hiddenLayers": [
+    "top.theillusivec4.curios.client.render.CuriosLayer",
+    "dev.tr7zw.waveycapes.renderlayers.CustomCapeRenderLayer"
+  ]
 }

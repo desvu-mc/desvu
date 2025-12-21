@@ -6,6 +6,6 @@
 	"handleSystemMessages": true,
 	"drawShadow": true,
 	"nameAliases": {
-		"Pregen": "cancelled"
+		"Pregen": "complete"
 	}
 }
